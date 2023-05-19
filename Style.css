@@ -1,0 +1,96 @@
+* { 
+    box-sizing: border-box;
+    }
+    
+    body {
+    max-width:100%;
+    margin: auto;
+    }
+    
+    .header {
+     background-image: url('https://cdn.wallpapersafari.com/12/34/3pJ6ox.jpg');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     padding: 150px 0;
+    }
+    
+    .secondimg
+    {
+     width:14%;
+     position:absolute;
+     top:9%;
+     left:25%;
+     margin:0 auto;
+    }
+    
+    .heading
+    {
+    border:white;
+    outline:white;
+    background:none;
+    color:#0B5BA4;
+    top:15%;
+    width:100%;
+    text-align:top;
+    font-size:1.7rem;
+    font-family:Helvetica;
+    font-shadow:3px 3px 3px #000000;
+    padding-left:40%;
+    }
+    
+    .topnav {
+    overflow: hidden;
+    background-color: #0B5BA4;
+    }
+    
+    .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    
+    .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    }
+    
+    .About {
+    padding: 10px;
+    font-size: 20px;
+    }
+    
+    table,th,td{
+    border: 1px solid-black;
+    }
+    th,td{
+    padding: 2px;
+    }
+    
+    .col-sm-3 {
+    float:left;
+    width: 33.33%;
+    padding: 10px;
+    min-height: 400px;
+    text-align: both;
+    
+    }
+
+    .iframe {
+        display: block;
+        margin: 0 auto;
+     }
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
